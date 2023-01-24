@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+.section__italicDecoration {
+  font-style: italic;
+}
+.section {
+  line-height: 1.5;
+  padding-left: 25px;
+  padding-right: 25px;
+}

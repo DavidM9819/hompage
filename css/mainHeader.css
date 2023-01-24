@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+}
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+.headerMain {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  color: #eeee;
+  background-color: rgb(119, 21, 22);
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+.headerMain__Dark {
+  background-color: #b4e523;
+  color: darkblue;
+}

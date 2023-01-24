@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+}
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+.footer {
+  font-family: "Quicksand", sans-serif;
+  border: 2px solid rgb(67, 5, 5);
+  background-color: rgb(119, 21, 22);
+  text-align: center;
+  color: white;
+}
