@@ -2,5 +2,5 @@
 ## DEMO
 https://davidm9819.github.io/hompage/
 
-! [ScreenShot website] ((https://i.ibb.co/F3VXdJm/hompage-ss.png)
+! [ScreenShot website](https://i.ibb.co/F3VXdJm/hompage-ss.png)
 
